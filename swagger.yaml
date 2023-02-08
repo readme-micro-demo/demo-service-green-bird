@@ -18,7 +18,7 @@ servers:
   - url: http://petstore.swagger.io/v2
 tags:
   - name: pet
-    description: Everything about your Pets
+    description: Everything about your Pets!
     externalDocs:
       description: Find out more
       url: http://swagger.io
@@ -27,7 +27,7 @@ tags:
   - name: user
     description: Operations about user
     externalDocs:
-      description: Find out more about our store
+      description: Find out more about our store?
       url: http://swagger.io
 paths:
   '/pet':
